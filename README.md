@@ -1,4 +1,4 @@
-<h1>SIMULADOR-AFD</h1>
+<b>SIMULADOR-AFD</b>
 
 <p>Características{
                 *Escrito na linguagem Python.</i>
