@@ -1,14 +1,14 @@
-SIMULADOR-AFD
+<b>SIMULADOR-AFD</b>
 
-Características{
+<i>Características{
                 *Escrito na linguagem Python.
                 *Atualizado em 17/08/2018.
                 *Autor: Yann Figueiredo.
-                }
+                }</i>
 
-Esse programa registra um Autômato Finito Determinístico através de um arquivo.txt e testa se uma palavra, informada pelo usuário, é aceita pelo AFD registrado.
+<i>Esse programa registra um Autômato Finito Determinístico através de um arquivo.txt e testa se uma palavra, informada pelo usuário, é aceita pelo AFD registrado.</i>
 
-O arquivo.txt que descreverá o AFD terá a seguinte forma geral descrita abaixo. Na primeira linha serão apresentados os componentes do AFD, conforme abaixo:
+<i>O arquivo.txt que descreverá o AFD terá a seguinte forma geral descrita abaixo. Na primeira linha serão apresentados os componentes do AFD, conforme abaixo:</i>
 (∑︀, Q, 𝛿, q0, F)
 ∑︀ = Alfabeto do AFD
 Q = Estados do AFD
@@ -16,8 +16,8 @@ Q = Estados do AFD
 q0 = Estado inicial do AFD
 F = Estado(s) final(is) do AFD
 
-Os componentes serão apresentados como conjuntos. Um exemplo da primeira linha do
-arquivo seria:
+<i>Os componentes serão apresentados como conjuntos. Um exemplo da primeira linha do
+arquivo seria:</i>
 ({a, b}, {q0, q1, q2, qf}, D, q0, {qf})
 
 A partir da segunda linha, estarão listadas as regras de transição segundo o esquema:
