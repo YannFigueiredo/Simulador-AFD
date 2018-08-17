@@ -1,4 +1,7 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
+  <meta charset="UTF-8">
   <link rel="stylesheet" href="estilo.css"/>
 </head>
 <body>
@@ -37,3 +40,4 @@ arquivo seria:</i><br/>
 -O arquivo.txt deve ser informado sem a extensão(.txt) quando solicitado pelo programa.<br/>
 -O arquivo.txt deve seguir estritamente o modelo informado acima(inclusive os espaços).</i>
 </body>
+</html>
