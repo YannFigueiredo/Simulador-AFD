@@ -1,5 +1,5 @@
 # Simulador-AFD
-'''
+'''\n
 Características{
                 *Escrito na linguagem Python.
                 *Atualizado em 17/08/2018.
