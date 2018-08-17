@@ -1,6 +1,7 @@
 <head>
   <link rel="stylesheet" href="estilo.css"/>
 </head>
+<body>
 <b>SIMULADOR-AFD</b>
 
 <i>Características{</i><br/>
@@ -35,4 +36,4 @@ arquivo seria:</i><br/>
 <i>-O AFD só deve ter estados que possuem a letra 'q' como inicial.<br/>
 -O arquivo.txt deve ser informado sem a extensão(.txt) quando solicitado pelo programa.<br/>
 -O arquivo.txt deve seguir estritamente o modelo informado acima(inclusive os espaços).</i>
-
+</body>
