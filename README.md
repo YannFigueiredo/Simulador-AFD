@@ -29,7 +29,7 @@ arquivo seria:</i>
 <i>q1, b, q2</i>
 
 <i>***Restrições***</i>
-<i>-O AFD só deve ter estados que possuem a letra 'q' como inicial.</i>
-<i>-O arquivo.txt deve ser informado sem a extensão(.txt) quando solicitado pelo programa.</i>
-<i>-O arquivo.txt deve seguir estritamente o modelo informado acima(inclusive os espaços).</i>
+-O AFD só deve ter estados que possuem a letra 'q' como inicial.
+-O arquivo.txt deve ser informado sem a extensão(.txt) quando solicitado pelo programa.
+-O arquivo.txt deve seguir estritamente o modelo informado acima(inclusive os espaços).
 
