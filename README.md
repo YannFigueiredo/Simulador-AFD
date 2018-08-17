@@ -1,5 +1,4 @@
 # Simulador-AFD
-'''\n
 Características{
                 *Escrito na linguagem Python.
                 *Atualizado em 17/08/2018.
@@ -32,4 +31,4 @@ q1, b, q2
 -O AFD só deve ter estados que possuem a letra 'q' como inicial.
 -O arquivo.txt deve ser informado sem a extensão(.txt) quando solicitado pelo programa.
 -O arquivo.txt deve seguir estritamente o modelo informado acima(inclusive os espaços).
-'''
+
