@@ -1,10 +1,10 @@
 <h1>SIMULADOR-AFD</h1>
 
-<i>Características{</i>
-                <i>*Escrito na linguagem Python.</i>
-                <i>*Atualizado em 17/08/2018.</i>
-                <i>*Autor: Yann Figueiredo.</i>
-                <i>}</i>
+<p>Características{
+                *Escrito na linguagem Python.</i>
+                *Atualizado em 17/08/2018.</i>
+                *Autor: Yann Figueiredo.</i>
+                }</p>
 
 <i>Esse programa registra um Autômato Finito Determinístico através de um arquivo.txt e testa se uma palavra, informada pelo usuário, é aceita pelo AFD registrado.</i>
 
