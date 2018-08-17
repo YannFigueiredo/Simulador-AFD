@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="estilo.css"/>
+</head>
 <b>SIMULADOR-AFD</b>
 
 <i>Características{</i><br/>
