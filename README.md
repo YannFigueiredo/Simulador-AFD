@@ -4,6 +4,7 @@
                 *Escrito na linguagem Python.<br/>
                 *Atualizado em 17/08/2018.<br/>
                 *Autor: Yann Figueiredo.<br/>
+                *GUI: Não.<br/>
                 }<br/>
 
 Esse programa registra um Autômato Finito Determinístico através de um arquivo.txt e testa se uma palavra, informada pelo usuário, é aceita pelo AFD registrado.
