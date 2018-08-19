@@ -3,7 +3,7 @@
 <i>Características{<br/>
                 *Escrito na linguagem Python.<br/>
                 *GUI: Não.<br/>
-                *Atualizado em 17/08/2018.<br/>
+                *Atualizado em 19/08/2018.<br/>
                 *Autor: Yann Figueiredo.<br/>
                 }<br/>
 
